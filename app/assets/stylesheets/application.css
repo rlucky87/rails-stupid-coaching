@@ -13,3 +13,32 @@
  *= require_tree .
  *= require_self
  */
+.h1{
+color: red
+
+
+}
+
+body{
+  background-color: rgb(222, 220, 220);
+}
+
+.btn{
+  background-color: red;
+  border-radius: 20px;
+  color: white;
+
+}
+
+.btn :hover {
+background-color:black;
+color: white;
+border-radius: 20px;
+}
+
+input{
+  border-radius: 20px;
+  height: 60px;
+  width: 200px;
+
+}
